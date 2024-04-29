@@ -37,7 +37,6 @@ public class CommandClear extends CustomCommand<Player> {
             return;
         }
 
-
         final Player target = (args.length == 2) ?
                 Bukkit.getPlayer(args[1]) : player;
         if (target == null) {
