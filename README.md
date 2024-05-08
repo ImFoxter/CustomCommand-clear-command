@@ -1,9 +1,9 @@
 # Command:
 - /clear *
-- /clear all
+- /clear armor
 - /clear inventory
 - /clear * [player]
-- /clear all [player]
+- /clear armor [player]
 - /clear inventory [player]
 
 
